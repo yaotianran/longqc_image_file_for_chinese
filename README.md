@@ -1,4 +1,4 @@
-# longqc_image_file_for_chinese
+# longqc image file for chinese
 LongQC 是一个用于三代测序数据质控的软件。作者在其[github](https://github.com/yfukasawa/LongQC)上提供了两种安装方法：conda安装和docker image安装。
   1. conda安装时会有一个[特定的bug](https://github.com/yfukasawa/LongQC/issues/37)，导致软件不可用。
   2. docker安装会因为docker源和conda libmamba-solver 依赖问题导致安装失败
